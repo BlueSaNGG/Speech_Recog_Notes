@@ -1,0 +1,9 @@
+windows:
+# py -m pip install pyaudio
+# py -m pip install gtts playsound
+
+mac:
+# brew install portaudio
+# pip install pyaudio
+# pip install pyobjc
+# pip install gtts playsound
